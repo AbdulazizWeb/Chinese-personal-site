@@ -1,0 +1,79 @@
+{
+  "id": "2659243",
+  "name": "个人简介",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "21957296",
+      "name": "首 页",
+      "font_class": "shouye",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    },
+    {
+      "icon_id": "7851236",
+      "name": "首页-选中",
+      "font_class": "index",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "8661713",
+      "name": "直线",
+      "font_class": "zhixian",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "21524150",
+      "name": "about_me",
+      "font_class": "about_me",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "2538875",
+      "name": "个人简历",
+      "font_class": "gerenjianli",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "7600257",
+      "name": "ic_学习经历",
+      "font_class": "ic_xxjl",
+      "unicode": "e695",
+      "unicode_decimal": 59029
+    },
+    {
+      "icon_id": "7699933",
+      "name": "求职意向",
+      "font_class": "qiuzhiyixiang-",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "8777747",
+      "name": "首页",
+      "font_class": "yemian",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "11775517",
+      "name": "日记",
+      "font_class": "riji",
+      "unicode": "f004",
+      "unicode_decimal": 61444
+    },
+    {
+      "icon_id": "19026128",
+      "name": "学习成绩_teacher",
+      "font_class": "xuexichengji-01",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    }
+  ]
+}

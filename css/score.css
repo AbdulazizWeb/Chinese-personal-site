@@ -1,0 +1,88 @@
+/*nav start*/
+/*图*/
+.col-md-3{
+	background: url('../img/backimg.jpg');
+}
+.nav-c{
+	background: url('../img/backimg.jpg');
+	background-size: cover;
+}
+.nav-c .nav .nav-div{
+	margin-left: 27%;
+	display: block;
+	height: 150px;
+	width: 150px;
+	border-radius: 150px;
+	background: url(../img/profile\ photo.jpg);
+	background-size: cover;
+	border: 1px solid #a89bdc;
+}
+.nav-c .nav{
+	width: 100%;
+	margin-top: 25%;
+}
+.navbar{
+	/*height: 30%;*/
+	/*border: 1px solid black;*/
+}
+.navbar .center{
+	text-align: center;
+	font-size: 20px;
+	color: white;
+	
+}
+.nav-c .nav .nav-li1{
+	margin-top: 30px;
+	/*background-color: #FFFFFF33;
+	border-radius: 15px;*/
+}
+.nav-c .nav .nav-li2{
+	/*margin-top: 30px;*/
+	background-color: #FFFFFF33;
+	border-radius: 15px;
+}
+.nav-li a{
+	color: white;
+}
+.nav-li2 a{
+	color: white;
+}
+.nav-c .nav .nav-li{
+	margin-top: 5px;
+}
+.nav-li:hover{
+	background-color: #FFFFFF33;
+	border-radius: 15px;
+}
+.nav-li1:hover{
+	background-color: #FFFFFF33;
+	border-radius: 15px;
+}
+.nav-c .nav .nav-li .iconfont{
+	color: white;
+	font-size: 18px;
+}
+/*nav end*/
+
+#card-p{
+	margin-left: 3%;
+	padding-top: 4%;
+}
+#card-p1>span{
+	font-size: 23px;
+	font-weight: 500;
+	margin-left: 3%;
+	
+}
+#card-p1{
+	margin-top: 2%;
+	margin-bottom: 5%;
+}
+#card-p1>span>a{
+	color:  black;
+	text-decoration: none !important;
+}
+#card-p1>span>a:hover{
+	color: rgba(128,183,217,2);
+}
+
